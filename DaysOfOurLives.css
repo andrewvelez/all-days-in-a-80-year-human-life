@@ -1,0 +1,14 @@
+#DaysOfMyLife {
+  font-family: Consolas, monospace;
+  white-space: nowrap;
+}
+
+h1, h2 {
+  font-family: Calibri, sans-serif;
+}
+
+#DaysOfMyLife span {
+  display: inline-block;
+  height: 9px;
+  width: 9px;
+}
